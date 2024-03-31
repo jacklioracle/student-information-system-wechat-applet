@@ -36,3 +36,4 @@
     </view>
     <view class="page-footer" bindtap="tapnav"> 使用说明 </view>
 </view>
+<image src="http://www.baidu.com"></image>
